@@ -4,11 +4,11 @@ I'm a 21-year-old Full Stack Developer based in Italy, specializing in **web** a
 
 ## 🛠 Skills & Technologies
 
-- **Languages**: Java, JavaScript, TypeScript, Python
-- **Frameworks**: React, Angular, Node.js, Spring Boot
+- **Languages**: Java, JavaScript, TypeScript, Python, C#
+- **Frameworks**: React, Angular, Node.js, Spring Boot, .NET Core
 - **Mobile Development**: React Native, Flutter
-- **Cloud & DevOps**: Docker, Kubernetes, AWS, Google Cloud
-- **Databases**: MySQL, PostgreSQL, MongoDB, Redis
+- **Cloud & DevOps**: Docker, Kubernetes, Azure, AWS & Google Cloud
+- **Databases**: MySQL, PostgreSQL, MongoDB and Redis
 - **Messaging Systems**: RabbitMQ, Redis Pub/Sub
 - **Minecraft Plugin Development**: Bukkit, Paper, Spigot
 
