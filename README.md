@@ -30,11 +30,9 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=Niketion&column=4&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
 
-## Find me around the web
-
+<div align="right">
 <p>
   <a href="https://linkedin.com/in/nicolas-giulianii" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:nicolas.giuliani@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niketion&layout=compact&hide_border=true&title_color=0366d6&text_color=24292e&bg_color=ffffff" alt="Top Languages" />
+</div>
